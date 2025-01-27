@@ -43,7 +43,7 @@ You will also need two CSV files named Customers.csv and Transactions.csv in the
 
 ## 3. Usage
 
-The project is implemented in a Jupyter Notebook (Divyanshu_clustering.ipynb).  The notebook performs the following steps:
+The project is implemented in a Jupyter Notebook (Satyesh_Das_clustering.ipynb).  The notebook performs the following steps:
 
 1. *Loads data:* Reads customer and transaction data from Customers.csv and Transactions.csv.
 2. *Merges and aggregates:* Merges the datasets and calculates total spending and number of transactions per customer.
@@ -70,7 +70,7 @@ The project consists of the following files:
 * **README.md:** (Project README - content not provided).
 
 
-## 5.  Example Code Snippet (from Divyanshu_clustering.ipynb)
+## 5.  Example Code Snippet (from Satyesh_Das_clustering.ipynb)
 
 This snippet shows how the data is merged and aggregated:
 
