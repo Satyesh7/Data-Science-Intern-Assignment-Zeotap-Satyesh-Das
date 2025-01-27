@@ -54,7 +54,7 @@ The project is implemented in a Jupyter Notebook (Divyanshu_clustering.ipynb).  
 
 To run the notebook:
 
-1. Open Divyanshu_clustering.ipynb in Jupyter Notebook.
+1. Open Satyesh_Das_clustering.ipynb in Jupyter Notebook.
 2. Execute the cells sequentially.
 
 
@@ -62,10 +62,10 @@ To run the notebook:
 
 The project consists of the following files:
 
-* **Divyanshu_clustering.ipynb:** The main Jupyter Notebook containing the customer segmentation code.  This notebook imports necessary libraries, loads data, performs preprocessing, clustering, and visualization.  Key functions are not explicitly defined as separate functions but are implemented within the notebook's cells.
-* **Divyanshu_EDA.ipynb:**  (Likely Exploratory Data Analysis notebook - content not provided).
-* **Divyanshu_lookalike.csv:** (CSV file - content not provided).
-* **Divyanshu_lookalike.ipynb:** (Likely lookalike modeling notebook - content not provided).
+* **Satyesh_Das_clustering.ipynb:** The main Jupyter Notebook containing the customer segmentation code.  This notebook imports necessary libraries, loads data, performs preprocessing, clustering, and visualization.  Key functions are not explicitly defined as separate functions but are implemented within the notebook's cells.
+* **Satyesh_Das_EDA.ipynb:**  (Likely Exploratory Data Analysis notebook - content not provided).
+* **Satyesh_Das_lookalike.csv:** (CSV file - content not provided).
+* **Satyesh_Das_lookalike.ipynb:** (Likely lookalike modeling notebook - content not provided).
 * **LICENSE:**  (License file - content not provided).
 * **README.md:** (Project README - content not provided).
 
